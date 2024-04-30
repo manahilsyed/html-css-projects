@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#start {
+    height: 100vh;
+
+    background-image: url(travel.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+h1,
+h2 {
+    color: white;
+}
+
+h2 {
+    font-size: 1.7em;
+    margin-bottom: 18px;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 27px;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    border: 3px solid #0a8775;
+    border-radius: 17px;
+    padding: 10px;
+    margin-left: 38%;
+    background-color: #0a8775;
+
+}
+
+.line {
+    width: 150px;
+    height: 5px;
+    background-color: #0a8775;
+    margin: 10px auto;
+}
+
+/* section 2 */
+
+.events {
+    color: #0a8775;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 12px;
+    font-size: 2.5em;
+}
+
+
+.section-2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.div-1{
+    width: 50%;
+}
+
+.div-2{
+    width: 50%;
+}
+.img-1 {
+    margin-left: 141px;
+
+}
+.img-2 {
+    margin-left: 141px;
+
+}
+.p-1{
+    width: 500px;
+    margin-left: 131px;
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    padding-bottom: 18px;
+}
+.p-2{
+    width: 500px;
+    margin-left: 131px;
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+
+.btn-1{
+    padding: 6px;
+    border-radius: 13px;
+    color: white;
+    background-color: #0a8775;
+    border-color: #0a8775;
+    margin: 0px 40%;
+    
+}
+
+
+#last{
+    margin-top: 4%;
+    background-color: #0a8775;
+    height: 26vh;
+   
+}
+.para-4{
+    color: white;
+   padding-top: 54px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 1000px;
+    padding-left: 217px;
+    padding-bottom: 34px;
+}
+
+span{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    padding-left: 600px;
+
+}
